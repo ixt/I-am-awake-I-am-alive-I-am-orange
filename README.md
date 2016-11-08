@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am doing gr8!
+# I am stuck in for a day
