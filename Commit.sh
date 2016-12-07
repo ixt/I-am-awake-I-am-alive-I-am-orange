@@ -5,3 +5,6 @@ git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)"
 git push origin master
 pkill gpg-agent
 gpg-agent --enable-ssh-support --daemon git push ff4500 master
+while read entry; do
+    t update "$(echo $entry | sed -s "s/# //g")"
+done < README.md
