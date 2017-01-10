@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am somewhat secure
+# I am somewhat awake
