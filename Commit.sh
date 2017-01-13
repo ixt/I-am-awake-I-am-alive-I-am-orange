@@ -11,3 +11,4 @@ done < README.md
 COMMITID=$(git log -1 | grep -i "commit" | sed -e "s/commit //g")
 COMMITURL=$(echo "https://github.com/ixt/I-am-awake-I-am-alive-I-am-orange/commit/$COMMITID")
 ./twitter.rb "Verification: $COMMITURL"
+echo "" > twitter.rb
