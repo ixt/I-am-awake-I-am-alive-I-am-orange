@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am read-only
+# I am stateless
