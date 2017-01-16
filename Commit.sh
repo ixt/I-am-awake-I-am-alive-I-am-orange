@@ -1,5 +1,6 @@
 #!/bin/bash
-# 2017-01-13 02:41:51
+# 2017-01-16 23:26:02
+. torsocks on
 git add README.md
 git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)"
 git push origin master
@@ -12,3 +13,4 @@ COMMITID=$(git log -1 | grep -i "commit" | sed -e "s/commit //g")
 COMMITURL=$(echo "https://github.com/ixt/I-am-awake-I-am-alive-I-am-orange/commit/$COMMITID")
 ./twitter.rb "Verification: $COMMITURL"
 echo "" > twitter.rb
+. torsocks off 
