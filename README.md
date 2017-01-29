@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am not very well rested
+# I am in dire need of a better sleep schedule 
