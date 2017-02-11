@@ -5,6 +5,7 @@ git add README.md
 git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)"
 git push origin master
 git push ff4500 master
+git push github master
 gpg -d tweet.sh.gpg > tweet.sh
 while read entry; do
    ./tweet.sh "$(echo $entry | sed -s "s/# //g")"
