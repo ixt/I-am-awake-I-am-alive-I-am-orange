@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am around!
+# I am the sum of the values of my projects
