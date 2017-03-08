@@ -1,3 +1,3 @@
 # I am awake
 # I am alive
-# I am vitamin b12
+# I am the owner of a Fairphone with no microphones
