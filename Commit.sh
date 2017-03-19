@@ -2,7 +2,7 @@
 # 2017-03-14 23:08:14
 git add README.md 2>/dev/null
 git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)" 2>/dev/null
-for r in $(git remote); do gpg-agent --enable-ssh-support --daemon git push $r master; done
+for r in $(git remote); do git push $r master; done
 gpg --card-status 2>/dev/null
 gpg -d tweet.sh.gpg > tweet.sh
 chmod +x tweet.sh
