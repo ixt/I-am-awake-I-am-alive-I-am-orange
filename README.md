@@ -1,3 +1,3 @@
-# I am awake
-# I am alive
-# I am sunny
+# Mi estas maldormas
+# Mi estas vivas
+# Mi estas oranĝokolora
