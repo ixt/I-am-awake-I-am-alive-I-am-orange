@@ -1,3 +1,3 @@
-# Mi estas maldormas
-# Mi estas vivas
-# Mi estas oranĝokolora
+# I am awake 
+# I am alive
+# I am preparing
