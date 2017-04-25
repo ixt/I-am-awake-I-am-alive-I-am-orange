@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am not doing too great this morning
+# I am gonna make it through this week if it kills me
