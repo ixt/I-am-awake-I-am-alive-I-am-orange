@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am gonna make it through this week if it kills me
+# I am basically a god at 3d modelling now (im not dont hire me for that)
