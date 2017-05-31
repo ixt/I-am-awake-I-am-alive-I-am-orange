@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am sick of having so much stuff
+# I am not doing fantastic but surviving
