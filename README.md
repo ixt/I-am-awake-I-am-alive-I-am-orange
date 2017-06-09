@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am a voter
+# I am strong and stable lol 
