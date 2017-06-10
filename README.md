@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am strong and stable lol 
+# I am doing okay
