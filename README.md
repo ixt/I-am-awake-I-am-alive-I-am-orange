@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am cold
+# I am ready, maybe
