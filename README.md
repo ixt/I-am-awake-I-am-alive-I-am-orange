@@ -1,3 +1,3 @@
 # I am awake 
 # I am alive
-# I am on
+# I am on it and ready
