@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# 2017-07-15 13:52:14
+# 2017-08-01 08:54:49
 cd $(dirname $0)
-git add README.md 2>/dev/null
-git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)" 2>/dev/null
+git add README.md 
+git commit -sm "$(date -u +%Y-%m-%d\ %H:%M:%S)"
 for r in $(git remote); do git push $r master; done
-gpg --card-status 2>/dev/null
+gpg --card-status 
 gpg -d tweet.sh.gpg > tweet.sh
 chmod +x tweet.sh
 while read entry; do
